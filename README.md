@@ -1,6 +1,6 @@
-# Zempxz-s-Management-Bot
+# Zempxz's Management Bot
 
-## Developed by Spark + Leo
+## Developed by Spark (CodeLangy) & Leo (Leokayasen)
 
 Core Features:
 - Server Information (Senior Staff Command) [Currently Active]
